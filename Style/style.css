@@ -1,0 +1,24 @@
+.cabecera {
+    background-color: black;
+    padding: 1rem;
+    color: white;
+}
+
+.icono {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container_menu {
+  display: none;
+}
+.logo{
+    height: 3vh;
+}
+
+.hamburguesa {
+    height: 3vh;
+}
+.item{
+    color: white;
+}
